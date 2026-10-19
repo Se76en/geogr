@@ -1,0 +1,99 @@
+GHEPARDUL ASIATIC (Acinonyx jubatus venaticus)
+Proiect de geografie - credite foto si surse
+
+=====================================================================
+FOTOGRAFII SI HARTA (toate cu licente libere, folosite necomercial)
+=====================================================================
+
+cheetah-roar.jpg
+  "Iranian Cheetah" - ghepardul asiatic Kooshki
+  Autor: Ehsan Kamali / Tasnim News Agency
+  Licenta: Creative Commons Attribution 4.0 (CC BY 4.0)
+  Sursa: Wikimedia Commons - File:Iranian Cheetah roars.jpg
+  Folosit: slide 1 (hero)
+
+cheetah-band.jpg
+  Acinonyx jubatus venaticus - detaliu al capului (crop din fotografia originala)
+  Sursa: iNaturalist, open data (photo id 157883233)
+  Licenta: Creative Commons Attribution-NonCommercial (CC BY-NC)
+  Folosit: slide 2
+
+range-map.png
+  "Asiatic Cheetah range" - harta arealului actual
+  Autor: Mariomassone
+  Licenta: Creative Commons Attribution 2.5 (CC BY 2.5)
+  Sursa: Wikimedia Commons - File:Acononyx jubatus venaticus corrected.png
+  Folosit: slide 3
+
+mughal-hunt.jpg
+  "Shah Jahan Hunting Blackbuck with Trained Cheetahs"
+  Institut: The Metropolitan Museum of Art, New York
+  Licenta: Public Domain (CC0 1.0)
+  Sursa: https://www.metmuseum.org/art/collection/search/38048
+  Folosit: slide 4
+
+prince-hunt.jpg
+  "Prince Hunting with Cheetah" (LACMA M.90.141.4)
+  Sursa: Openverse / Flickr
+  Licenta: Creative Commons Attribution 2.0 (CC BY 2.0)
+  Folosit: slide 4
+
+archive-iran.jpg
+  "Asiatic cheetah" - fotografie de arhiva din Iran
+  Autor: Habitatnews
+  Licenta: Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 2.0)
+  Sursa: Openverse / Flickr
+  Folosit: slide 4
+
+kavir-dunes.jpg
+  "Dasht-e Kavir (Central Desert), Iran"
+  Autor: juanalbertogarciarivera
+  Licenta: Creative Commons Attribution 2.0 (CC BY 2.0)
+  Sursa: Openverse / Flickr
+  Folosit: slide 5
+
+persian-gazelle.jpg
+  "Persian Goitered Gazelle" (Gazella subgutturosa)
+  Licenta: Creative Commons Attribution 2.0 (CC BY 2.0)
+  Sursa: Openverse / Flickr
+  Folosit: slide 6
+
+cheetah-tracks.jpg
+  Acinonyx jubatus venaticus - urme de ghepard
+  Sursa: iNaturalist, open data (photo id 350877756)
+  Licenta: Creative Commons Attribution 2.0 (CC BY 2.0)
+  Folosit: slide 7
+
+meraj-livery.jpg
+  "Meraj Airlines (Asiatic Cheetah Livery), Airbus A300"
+  Autor: Anna Zvereva
+  Licenta: Creative Commons Attribution-ShareAlike 2.0 (CC BY-SA 2.0)
+  Sursa: Openverse / Flickr
+  Folosit: slide 8
+
+kavir-sunset.jpg
+  "Iran: Sunset in the Dasht-e Kavir desert"
+  Autor: Erwin Bolwidt
+  Licenta: Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (CC BY-NC-SA 2.0)
+  Sursa: Openverse / Flickr
+  Folosit: slide 9
+
+=====================================================================
+SURSE TEXTUALE
+=====================================================================
+
+- Lista Rosie IUCN, Acinonyx jubatus (evaluare 2022)
+  https://www.iucnredlist.org/species/219/124378749
+- Wikipedia, "Asiatic cheetah" (https://en.wikipedia.org/wiki/Asiatic_cheetah)
+- Iranian Cheetah Society / Khorshid
+  https://iranchetahsociety.org
+- Wildlife Conservation Society - programul de conservare a ghepardului asiatic
+- CITES, "The Situation of Cheetah in Asia" (E-CoP19 Inf. 23)
+  https://cites.org/sites/default/files/documents/E-CoP19-Inf-23.pdf
+- Mongabay, "War on Iran disrupts efforts to save the Asiatic cheetah"
+  https://news.mongabay.com/2026/04/war-on-iran-disrupts-efforts-to-save-the-asiatic-cheetah-worlds-rarest-big-cat
+- Cheetah Conservation Fund
+  https://cheetah.org
+- One Earth, "Geopolitical instability and the future of the Asiatic cheetah"
+- Farhadinia et al., Khalatbari et al., Holec et al. - literatura stiintifica
+  despre camerele-capcana si colierele GPS din Iran
